@@ -6,9 +6,9 @@ import threading
 # Konfigurasi otomatis
 DOMAIN = "@babyhuey.my.id"
 SANDI = "@B4byhuey"
-CAPSOLVER_KEY = ""
+CAPSOLVER_KEY = "CAP-4FB9D4AEFD7475E11DD56BB9585E85C26C41AB61A6485A8D4C4B4A39D2BE9F87"
 API_SPOTIFY = "142b583129b2df829de3656f9eb484e6"
-AMOUNT = 5  # Ubah jumlah akun yang ingin dibuat
+AMOUNT = 20  # Ubah jumlah akun yang ingin dibuat
 
 class Spotify:
     def __init__(self):
